@@ -1,0 +1,1 @@
+After installation, you may need to restart the Command Prompt or use a new Command Prompt window to see the changes.
